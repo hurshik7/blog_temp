@@ -13,7 +13,7 @@ POCU 아카데미의 모든 과목들은 각각의 선수 과목이 존재합니
 POCU 아카데미는 다른 교육 기관에 비해 기준이 상당히 높습니다. 때문에 선수 과목과 비슷한 과목을 다른 곳에서 공부하셨다고 해서 POCU 아카데미의 풀코스를 통과하리라는 보장은 없다는 점을 염두에 두세요!
 아래에는 POCU 아카데미의 과목의 간단한 설명과 해당 과목의 선수 과목, 선수 과목 이수 확인을 위한 간단한 질문이 있습니다. 본인이 확인하고자 하는 과목을 꼼꼼히 확인하시고 판단하시기 바라요 ^^
 
-## [COMP1500: 실무 프로그래밍 입문](https://pocu.academy/ko/Courses/COMP1500)
+# [COMP1500: 실무 프로그래밍 입문](https://pocu.academy/ko/Courses/COMP1500)
 - **선수 과목**
     - [COMP0000: 왕초보 프로그래밍 입문](https://pocu.academy/ko/Courses/COMP0000)
 - **과목 설명**
@@ -24,7 +24,7 @@ POCU 아카데미는 다른 교육 기관에 비해 기준이 상당히 높습�
 1. 나는 C#의 for 문을 이용하여 int[] 배열에 들어있는 모든 값의 평균을 구할 수 있다.
 2. 나는 C#을 이용하여 가위 바위 보 게임을 만들 수 있다. 이 게임에서 컴퓨터 플레이어는 랜덤 하게 가위 바위 보 중에서 하나를 고르며, 사람 플레이어는 키보드로 입력을 한다.
 
-## [COMP1000: 소프트웨어 공학용 수학](https://pocu.academy/ko/Courses/COMP1000)
+# [COMP1000: 소프트웨어 공학용 수학](https://pocu.academy/ko/Courses/COMP1000)
 - **선수 과목**
     - [COMP1500: 실무 프로그래밍 입문](https://pocu.academy/ko/Courses/COMP1500)
 - **과목 설명**
@@ -35,7 +35,7 @@ POCU 아카데미는 다른 교육 기관에 비해 기준이 상당히 높습�
 1. 나는 C#에서 재귀 함수를 이용하여 하노이의 탑 문제를 풀 수 있다.
 2. 나는 C#을 이용하여 .csv 파일 하나를 읽어 2D 문자열 배열로 만들 수 있다.
 
-## [COMP2200: C 언매니지드 프로그래밍](https://pocu.academy/ko/Courses/COMP2200)
+# [COMP2200: C 언매니지드 프로그래밍](https://pocu.academy/ko/Courses/COMP2200)
 - **선수 과목**
     - [COMP1000: 소프트웨어 공학용 수학](https://pocu.academy/ko/Courses/COMP1000)
     - [COMP1500: 실무 프로그래밍 입문](https://pocu.academy/ko/Courses/COMP1500)
@@ -50,7 +50,7 @@ POCU 아카데미는 다른 교육 기관에 비해 기준이 상당히 높습�
 2. 나는 C#을 이용하여 .csv 파일 하나를 읽어 2D 문자열 배열로 만들 수 있다.
 3. 나는 어떤 unsigned int 값이 2의 승수인지 O(1) 시간 안에 판단하는 함수를 작성할 수 있다.
 
-## [COMP2500: 개체지향 프로그래밍 및 설계 (Java)](https://pocu.academy/ko/Courses/COMP2500)
+# [COMP2500: 개체지향 프로그래밍 및 설계 (Java)](https://pocu.academy/ko/Courses/COMP2500)
 - **선수 과목**
     - [COMP1000: 소프트웨어 공학용 수학](https://pocu.academy/ko/Courses/COMP1000)
     - [COMP1500: 실무 프로그래밍 입문](https://pocu.academy/ko/Courses/COMP1500)
@@ -65,7 +65,7 @@ POCU 아카데미는 다른 교육 기관에 비해 기준이 상당히 높습�
 2. 나는 C#을 이용하여 .csv 파일 하나를 읽어 2D 문자열 배열로 만들 수 있다.
 3. 나는 어떤 unsigned int 값이 2의 승수인지 O(1) 시간 안에 판단하는 함수를 작성할 수 있다.
 
-## [COMP3200: C++ 언매니지드 프로그래밍](https://pocu.academy/ko/Courses/COMP3200)
+# [COMP3200: C++ 언매니지드 프로그래밍](https://pocu.academy/ko/Courses/COMP3200)
 - **선수 과목**
     - [COMP2200: C 언매니지드 프로그래밍](https://pocu.academy/ko/Courses/COMP2200)
     - [COMP2500: 개체지향 프로그래밍 및 설계 (Java)](https://pocu.academy/ko/Courses/COMP2500)
@@ -80,7 +80,7 @@ POCU 아카데미는 다른 교육 기관에 비해 기준이 상당히 높습�
 2. 나는 별도의 메모리 할당 없이 포인터만 사용해서 C 스타일 문자열을 뒤집을 수 있다.
 3. 나는 개체지향 프로그래밍에서 상속과 컴포지션(composition)의 장단점에 대해 설명할 수 있다.
 
-## [COMP3500: 알고리듬 및 자료구조 (Java)](https://pocu.academy/ko/Courses/COMP3500)
+# [COMP3500: 알고리듬 및 자료구조 (Java)](https://pocu.academy/ko/Courses/COMP3500)
 - **선수 과목**
     - [COMP2500: 개체지향 프로그래밍 및 설계 (Java)](https://pocu.academy/ko/Courses/COMP2500)
 - **과목 설명**
