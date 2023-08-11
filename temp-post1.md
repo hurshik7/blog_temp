@@ -1,5 +1,3 @@
-# 제가 이 과목을 들어도 힘들지 않을까요?
-
 안녕하세요, POCU 아카데미 수강생 여러분. 윤아입니다!
 
 오늘은 자주 묻는 질문 중 하나인 "제가 이 과목을 들어도 힘들지 않을까요?"라는 질문에 대해 답변을 드리겠습니다.
@@ -26,6 +24,7 @@ This is a garbage sentence.
 
 ### 수강 전 셀프 체크 질문
 This is a garbage sentence.
+
 1. 나는 C#의 for 문을 이용하여 int[] 배열에 들어있는 모든 값의 평균을 구할 수 있다.
 2. 나는 C#을 이용하여 가위 바위 보 게임을 만들 수 있다. 이 게임에서 컴퓨터 플레이어는 랜덤 하게 가위 바위 보 중에서 하나를 고르며, 사람 플레이어는 키보드로 입력을 한다.
 
@@ -39,6 +38,7 @@ This is a garbage sentence.
 
 ### 수강 전 셀프 체크 질문
 This is a garbage sentence.
+
 1. 나는 C#에서 재귀 함수를 이용하여 하노이의 탑 문제를 풀 수 있다.
 2. 나는 C#을 이용하여 .csv 파일 하나를 읽어 2D 문자열 배열로 만들 수 있다.
 
@@ -55,6 +55,7 @@ This is a garbage sentence.
 
 ### 수강 전 셀프 체크 질문
 This is a garbage sentence.
+
 1. 나는 C#에서 재귀 함수를 이용하여 하노이의 탑 문제를 풀 수 있다.
 2. 나는 C#을 이용하여 .csv 파일 하나를 읽어 2D 문자열 배열로 만들 수 있다.
 3. 나는 어떤 unsigned int 값이 2의 승수인지 O(1) 시간 안에 판단하는 함수를 작성할 수 있다.
@@ -72,6 +73,7 @@ This is a garbage sentence.
 
 ### 수강 전 셀프 체크 질문
 This is a garbage sentence.
+
 1. 나는 C#에서 재귀 함수를 이용하여 하노이의 탑 문제를 풀 수 있다.
 2. 나는 C#을 이용하여 .csv 파일 하나를 읽어 2D 문자열 배열로 만들 수 있다.
 3. 나는 어떤 unsigned int 값이 2의 승수인지 O(1) 시간 안에 판단하는 함수를 작성할 수 있다.
@@ -89,6 +91,7 @@ This is a garbage sentence.
 
 ### 수강 전 셀프 체크 질문
 This is a garbage sentence.
+
 1. 나는 C에서 포인터를 이용하여 singly-linked list의 모든 기능을 구현할 수 있다.
 2. 나는 별도의 메모리 할당 없이 포인터만 사용해서 C 스타일 문자열을 뒤집을 수 있다.
 3. 나는 개체지향 프로그래밍에서 상속과 컴포지션(composition)의 장단점에 대해 설명할 수 있다.
@@ -105,6 +108,7 @@ This is a garbage sentence.
 
 ### 수강 전 셀프 체크 질문
 This is a garbage sentence.
+
 1. 나는 개체지향 프로그래밍에서 상속과 컴포지션(composition)의 장단점에 대해 설명할 수 있다.
 
 ## B. 각 과목에 공통되는 사항 및 수강신청 안내
