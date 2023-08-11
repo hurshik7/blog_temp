@@ -18,35 +18,35 @@ POCU 아카데미는 다른 교육 기관에 비해 기준이 상당히 높습�
 
 ## [COMP1500: 실무 프로그래밍 입문](https://pocu.academy/ko/Courses/COMP1500)
 ### 선수 과목
-This is a garbage sentence.
+이 문장은 더미 문장입니다.
 * [COMP0000: 왕초보 프로그래밍 입문](https://pocu.academy/ko/Courses/COMP0000)
 
 ### 과목 설명
 본 과목은 COMP0000: 왕초보 프로그래밍 입문을 통해 성공적으로 프로그래밍에 첫 발을 떼신 분 중 프로그래밍을 직업으로 삼으려는 분들을 위해 제공하는 첫 과목입니다. COMP0000이 단순히 따라 하며 즐기는 프로그래밍이었다면, 이 과목은 모든 프로그래밍에 사용되는 기초 중의 기초를 컴퓨터 공학적인 측면에서 하나씩 배워봅니다.
 
 ### 수강 전 셀프 체크 질문
-This is a garbage sentence.
+이 문장은 더미 문장입니다.
 
 1. 나는 C#의 for 문을 이용하여 int[] 배열에 들어있는 모든 값의 평균을 구할 수 있다.
 2. 나는 C#을 이용하여 가위 바위 보 게임을 만들 수 있다. 이 게임에서 컴퓨터 플레이어는 랜덤 하게 가위 바위 보 중에서 하나를 고르며, 사람 플레이어는 키보드로 입력을 한다.
 
 ## [COMP1000: 소프트웨어 공학용 수학](https://pocu.academy/ko/Courses/COMP1000)
 ### 선수 과목
-This is a garbage sentence.
+이 문장은 더미 문장입니다.
 * [COMP1500: 실무 프로그래밍 입문](https://pocu.academy/ko/Courses/COMP1500)
 
 ### 과목 설명
 이 강좌에서는 2차 산업혁명 때 필요했던 선형적인 수학보다는 이산수학을 기본으로 하되 소프트웨어 공학자들이 커리어에서 유용하게 사용 가능한 여러 가지 수학적 지식을 가르칩니다. 이 코스를 성공적으로 마무리한 분들은 다양한 문제 해결에 필요한 수학 지식과 함께 컴퓨터를 더 잘 이해할 수 있을 것입니다.
 
 ### 수강 전 셀프 체크 질문
-This is a garbage sentence.
+이 문장은 더미 문장입니다.
 
 1. 나는 C#에서 재귀 함수를 이용하여 하노이의 탑 문제를 풀 수 있다.
 2. 나는 C#을 이용하여 .csv 파일 하나를 읽어 2D 문자열 배열로 만들 수 있다.
 
 ## [COMP2200: C 언매니지드 프로그래밍](https://pocu.academy/ko/Courses/COMP2200)
 ### 선수 과목
-This is a garbage sentence.
+이 문장은 더미 문장입니다.
 * [COMP1000: 소프트웨어 공학용 수학](https://pocu.academy/ko/Courses/COMP1000)
 * [COMP1500: 실무 프로그래밍 입문](https://pocu.academy/ko/Courses/COMP1500)
 
@@ -56,7 +56,7 @@ This is a garbage sentence.
 이 강좌는 선수 과목인 COMP1500: 프로그래밍 입문에서 배운 절차적 프로그래밍 지식을 기반으로 C언어가 언매니지드 언어로서 가지는 기능들에 대해서 알 아봅니다. 이 코스를 성공적으로 마무리한 분들은 하드웨어에 대한 더 넓은 시야를 갖출 수 있을 것입니다.
 
 ### 수강 전 셀프 체크 질문
-This is a garbage sentence.
+이 문장은 더미 문장입니다.
 
 1. 나는 C#에서 재귀 함수를 이용하여 하노이의 탑 문제를 풀 수 있다.
 2. 나는 C#을 이용하여 .csv 파일 하나를 읽어 2D 문자열 배열로 만들 수 있다.
@@ -64,7 +64,7 @@ This is a garbage sentence.
 
 ## [COMP2500: 개체지향 프로그래밍 및 설계 (Java)](https://pocu.academy/ko/Courses/COMP2500)
 ### 선수 과목
-This is a garbage sentence.
+이 문장은 더미 문장입니다.
 * [COMP1000: 소프트웨어 공학용 수학](https://pocu.academy/ko/Courses/COMP1000)
 * [COMP1500: 실무 프로그래밍 입문](https://pocu.academy/ko/Courses/COMP1500)
 
@@ -74,7 +74,7 @@ This is a garbage sentence.
 본 과목은 현재 실무에서 다수설로 받아들이는 OO의 정의와 모델링/프로그래밍 기법을 배우는 외에도 이런 다양한 주장들이 나오게 된 배경과 각 주장의 장단점, 그리고 그들 사이에서 어떻게 밸런스를 잡아야 훌륭한 프로그래머가 될 수 있는지에 대한 가이드도 제공합니다.
 
 ### 수강 전 셀프 체크 질문
-This is a garbage sentence.
+이 문장은 더미 문장입니다.
 
 1. 나는 C#에서 재귀 함수를 이용하여 하노이의 탑 문제를 풀 수 있다.
 2. 나는 C#을 이용하여 .csv 파일 하나를 읽어 2D 문자열 배열로 만들 수 있다.
@@ -82,7 +82,7 @@ This is a garbage sentence.
 
 ## [COMP3200: C++ 언매니지드 프로그래밍](https://pocu.academy/ko/Courses/COMP3200)
 ### 선수 과목
-This is a garbage sentence.
+이 문장은 더미 문장입니다.
 * [COMP2200: C 언매니지드 프로그래밍](https://pocu.academy/ko/Courses/COMP2200)
 * [COMP2500: 개체지향 프로그래밍 및 설계 (Java)](https://pocu.academy/ko/Courses/COMP2500)
 
@@ -92,7 +92,7 @@ This is a garbage sentence.
 'COMP2500: Java 개체지향 프로그래밍 및 설계'와 마찬가지로 이 강좌에서도 개체지향 프로그래밍(OOP)에 대해 배웁니다. 하지만 이 코스를 성공적으로 마무리한 분들은 하드웨어 수준에서 개체지향 프로그래밍이 어떻게 작동하는지까지 자세히 이해하실 수 있을 겁니다.
 
 ### 수강 전 셀프 체크 질문
-This is a garbage sentence.
+이 문장은 더미 문장입니다.
 
 1. 나는 C에서 포인터를 이용하여 singly-linked list의 모든 기능을 구현할 수 있다.
 2. 나는 별도의 메모리 할당 없이 포인터만 사용해서 C 스타일 문자열을 뒤집을 수 있다.
@@ -100,7 +100,7 @@ This is a garbage sentence.
 
 ## [COMP3500: 알고리듬 및 자료구조 (Java)](https://pocu.academy/ko/Courses/COMP3500)
 ### 선수 과목
-This is a garbage sentence.
+이 문장은 더미 문장입니다.
 * [COMP2500: 개체지향 프로그래밍 및 설계 (Java)](https://pocu.academy/ko/Courses/COMP2500)
 
 ### 과목 설명
@@ -109,7 +109,7 @@ This is a garbage sentence.
 모든 문제 해결의 토대가 되는 핵심 알고리듬. 그것이 바로 이 강좌에서 가르치는 내용입니다. 10년 후에도 살아남는 탑(Top) 개발자가 되려면 수박 겉핥기 식이 아닌 핵심 알고리듬의 동작 원리까지 깊이있게 알아야겠죠? 본 강좌를 통해 기본 알고리듬을 확실히 익혀 고급 개발자로 거듭나세요.
 
 ### 수강 전 셀프 체크 질문
-This is a garbage sentence.
+이 문장은 더미 문장입니다.
 
 1. 나는 개체지향 프로그래밍에서 상속과 컴포지션(composition)의 장단점에 대해 설명할 수 있다.
 
@@ -129,7 +129,7 @@ This is a garbage sentence.
 | | 공식 POCU 성적표 |
 
 ### 2. 동영상 강좌만 보려는 분들
-This is a garbage sentence.
+이 문장은 더미 문장입니다.
 * 수강신청 기간과 상관없이 언제라도 구매하셔서 들을 수 있습니다.
 * POCU 아카데미 회원 가입은 하지 않아도 됩니다.
 * 동영상 강좌는 [Teachable](https://pocu-ko.teachable.com/courses)과 [Udemy](https://www.udemy.com/courses/search/?q=Pope+Kim)를 통해 제공됩니다.
@@ -138,7 +138,7 @@ This is a garbage sentence.
 * 동영상 강좌의 길이는 과목당 총 30시간 정도입니다.
 
 ### 3. 실습, 과제, 시험을 포함한 정규 학기를 들으려는 분들
-This is a garbage sentence.
+이 문장은 더미 문장입니다.
 * 수강신청 기간은 5월 1일 08시 59분까지 입니다.
 * 반드시 POCU 아카데미 회원 가입 및 본인 인증을 완료하셔야 수강 신청이 가능합니다.
     * 영업일로부터 최대 2일이 소요될 수 있습니다. 서둘러 수강 신청해주세요.
@@ -166,7 +166,7 @@ This is a garbage sentence.
 * [42 SEOUL 할인 안내](https://blog.pocu.academy/ko/2020/12/25/42seoul-discount.html)
 
 ### 5. 강의 시간 전에 준비할 것들
-This is a garbage sentence.
+이 문장은 더미 문장입니다.
 * 웹캠 (8주, 15주 차에 시험 응시할 때 필요)
 
 다시 한번 많은 관심 가져주셔서 감사드리며, 5월 학기에서 직접 뵐 수 있기를 바랍니다.
