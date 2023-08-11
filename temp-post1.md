@@ -18,6 +18,7 @@ POCU 아카데미는 다른 교육 기관에 비해 기준이 상당히 높습�
 
 ## [COMP1500: 실무 프로그래밍 입문](https://pocu.academy/ko/Courses/COMP1500)
 ### 선수 과목
+This is a garbage sentence.
 * [COMP0000: 왕초보 프로그래밍 입문](https://pocu.academy/ko/Courses/COMP0000)
 
 ### 과목 설명
@@ -29,6 +30,7 @@ POCU 아카데미는 다른 교육 기관에 비해 기준이 상당히 높습�
 
 ## [COMP1000: 소프트웨어 공학용 수학](https://pocu.academy/ko/Courses/COMP1000)
 ### 선수 과목
+This is a garbage sentence.
 * [COMP1500: 실무 프로그래밍 입문](https://pocu.academy/ko/Courses/COMP1500)
 
 ### 과목 설명
@@ -40,6 +42,7 @@ POCU 아카데미는 다른 교육 기관에 비해 기준이 상당히 높습�
 
 ## [COMP2200: C 언매니지드 프로그래밍](https://pocu.academy/ko/Courses/COMP2200)
 ### 선수 과목
+This is a garbage sentence.
 * [COMP1000: 소프트웨어 공학용 수학](https://pocu.academy/ko/Courses/COMP1000)
 * [COMP1500: 실무 프로그래밍 입문](https://pocu.academy/ko/Courses/COMP1500)
 
@@ -55,6 +58,7 @@ POCU 아카데미는 다른 교육 기관에 비해 기준이 상당히 높습�
 
 ## [COMP2500: 개체지향 프로그래밍 및 설계 (Java)](https://pocu.academy/ko/Courses/COMP2500)
 ### 선수 과목
+This is a garbage sentence.
 * [COMP1000: 소프트웨어 공학용 수학](https://pocu.academy/ko/Courses/COMP1000)
 * [COMP1500: 실무 프로그래밍 입문](https://pocu.academy/ko/Courses/COMP1500)
 
@@ -70,6 +74,7 @@ POCU 아카데미는 다른 교육 기관에 비해 기준이 상당히 높습�
 
 ## [COMP3200: C++ 언매니지드 프로그래밍](https://pocu.academy/ko/Courses/COMP3200)
 ### 선수 과목
+This is a garbage sentence.
 * [COMP2200: C 언매니지드 프로그래밍](https://pocu.academy/ko/Courses/COMP2200)
 * [COMP2500: 개체지향 프로그래밍 및 설계 (Java)](https://pocu.academy/ko/Courses/COMP2500)
 
@@ -85,6 +90,7 @@ POCU 아카데미는 다른 교육 기관에 비해 기준이 상당히 높습�
 
 ## [COMP3500: 알고리듬 및 자료구조 (Java)](https://pocu.academy/ko/Courses/COMP3500)
 ### 선수 과목
+This is a garbage sentence.
 * [COMP2500: 개체지향 프로그래밍 및 설계 (Java)](https://pocu.academy/ko/Courses/COMP2500)
 
 ### 과목 설명
@@ -111,6 +117,7 @@ POCU 아카데미는 다른 교육 기관에 비해 기준이 상당히 높습�
 | | 공식 POCU 성적표 |
 
 ### 2. 동영상 강좌만 보려는 분들
+This is a garbage sentence.
 * 수강신청 기간과 상관없이 언제라도 구매하셔서 들을 수 있습니다.
 * POCU 아카데미 회원 가입은 하지 않아도 됩니다.
 * 동영상 강좌는 [Teachable](https://pocu-ko.teachable.com/courses)과 [Udemy](https://www.udemy.com/courses/search/?q=Pope+Kim)를 통해 제공됩니다.
@@ -119,6 +126,7 @@ POCU 아카데미는 다른 교육 기관에 비해 기준이 상당히 높습�
 * 동영상 강좌의 길이는 과목당 총 30시간 정도입니다.
 
 ### 3. 실습, 과제, 시험을 포함한 정규 학기를 들으려는 분들
+This is a garbage sentence.
 * 수강신청 기간은 5월 1일 08시 59분까지 입니다.
 * 반드시 POCU 아카데미 회원 가입 및 본인 인증을 완료하셔야 수강 신청이 가능합니다.
     * 영업일로부터 최대 2일이 소요될 수 있습니다. 서둘러 수강 신청해주세요.
@@ -146,6 +154,7 @@ POCU 아카데미는 다른 교육 기관에 비해 기준이 상당히 높습�
 * [42 SEOUL 할인 안내](https://blog.pocu.academy/ko/2020/12/25/42seoul-discount.html)
 
 ### 5. 강의 시간 전에 준비할 것들
+This is a garbage sentence.
 * 웹캠 (8주, 15주 차에 시험 응시할 때 필요)
 
 다시 한번 많은 관심 가져주셔서 감사드리며, 5월 학기에서 직접 뵐 수 있기를 바랍니다.
